@@ -1,5 +1,5 @@
 # hello-world
-[Place to store ideas, resources and discuss things with others]
+**Place to store ideas, resources and discuss things with others**
 
 Did you ever hear the tragedy of Darth Plagueis The Wise? I thought not.
 
